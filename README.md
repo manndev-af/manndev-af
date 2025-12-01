@@ -35,12 +35,6 @@ I love working across the stack — from designing **responsive frontend interfa
 
 ---
 
-### 🏆 Achievements
-- 🥇 **Mathematics National Science Olympiad (OSN, City Level)**  
-- 🎨 **Poster Design Competition Champion – FLS2N (Provincial Level)**  
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <!-- Frontend -->
@@ -63,20 +57,4 @@ I love working across the stack — from designing **responsive frontend interfa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-</div>
-
----
-
-### :fire: My Stats :
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manndev-af&show_icons=true&locale=en&layout=compact&theme=algolia" alt="manndev-af" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manndev-af&show_icons=true&locale=en&theme=algolia" alt="manndev-af" />
-</div>
-
----
-
-### ❤️‍🔥 My Streak :
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manndev-af&theme=algolia" alt="manndev-af" />
 </div>
